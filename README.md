@@ -31,7 +31,6 @@ The project involved several analytical steps before dashboard creation:
 * Sales performance varied significantly by state.
 * Profitability analysis by product and shipping cost simulations were performed.
 
-## Project Disclaimer
 
 ## Project Disclaimer
 

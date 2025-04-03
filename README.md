@@ -36,3 +36,6 @@ The project involved several analytical steps before dashboard creation:
 ## Project Disclaimer
 
 This dashboard was created as a study project some time ago using a fictitious dataset, primarily for the purpose of learning Tableau and practicing key metrics calculation in e-commerce analysis. While it demonstrates analytical concepts, **reviewing it now highlights areas for improvement in styling, chart design, and layout, showcasing the improvement of my skills since its creation.**
+<img width="550" alt="pet p1" src="https://github.com/user-attachments/assets/e908f160-6e3f-4173-8c59-9d1c5e3e42b8" />
+<img width="550" alt="pet p2" src="https://github.com/user-attachments/assets/5f663ccb-0faf-463e-bae8-7c9d5eb0b9c3" />
+<img width="550" alt="pet p3" src="https://github.com/user-attachments/assets/425f69d3-1565-4604-aacf-1191a70369e9" />
